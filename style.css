@@ -1,10 +1,6 @@
-
-body { font-family: Arial; margin:0; background:#f7f7f7; }
-header { background:#1e88e5; color:white; padding:20px; text-align:center; }
-.hero { padding:40px; text-align:center; }
-.hero .btn { padding:10px 20px; display:inline-block; text-decoration:none; background:#1e88e5; color:white; border-radius:6px; }
-.keunggulan, .harga, .cara, .kontak { padding:30px; background:white; margin:20px; border-radius:8px; }
-.keunggulan ul { list-style:none; padding:0; }
-.keunggulan li { padding:6px 0; }
-.harga .card { background:#e3f2fd; padding:20px; margin:10px; border-radius:8px; display:inline-block; width:40%; vertical-align:top; }
-footer { text-align:center; padding:20px; background:#1e88e5; color:white; margin-top:20px; }
+body {font-family: Arial; padding: 20px;}
+header {background: #005bff; padding: 20px; color: white; text-align: center;}
+h1 {color: #003bbb;}
+.btn {display: inline-block; margin-top: 20px; padding: 10px 20px; background: #005bff; color: white; text-decoration: none;}
+table {width: 100%; border-collapse: collapse;}
+th {background: #005bff; color: white;}
